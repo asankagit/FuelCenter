@@ -1,0 +1,10 @@
+
+build/generated/mockable-android-25.jar
+.idea/vcs.xml
+
+.idea/workspace.xml
+.idea/misc.xml
+
+.gradle/
+.idea/
+*.iml

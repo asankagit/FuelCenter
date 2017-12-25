@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:17:1-41:12
+	package
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:18:5-54
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:17:11-69
+uses-sdk
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\DELL\.android\build-cache\52ec7716413ea38ca9f5e6868b9d3bd9ee532906\output\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\DELL\.android\build-cache\426c69e42e937e6087485d49a71f5f4af2aa5e37\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\DELL\.android\build-cache\e90bcf282f790f62c6d5c1cac8f8f975c2b41fcc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\DELL\.android\build-cache\104d3c68a896547f0640b829bfa7868b2ba32403\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\DELL\.android\build-cache\845c9e501955d95312789cc2f8725841818d2d48\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\DELL\.android\build-cache\5ba034277a6322b2f3e2d49f3d65c4b0bbaeda9b\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\DELL\.android\build-cache\d03d37e4894379bc2a7004b3154bbad3d34484b9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\DELL\.android\build-cache\0f008e252cde9fbb196b0f0fbd751f2ddf70a544\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\DELL\.android\build-cache\540866550c8b842e035114b5c398a9f7d70e0ff9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\DELL\.android\build-cache\02a0b30e072207c8333a8a329c89f14f524bbeae\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\DELL\.android\build-cache\fa30158e58112633222a0591edf3e92ae9d5dcf7\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\DELL\.android\build-cache\426c69e42e937e6087485d49a71f5f4af2aa5e37\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:22:15-41
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+		INJECTED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:24:5-40:19
+MERGED from [com.android.support:cardview-v7:21.0.3] C:\Users\DELL\.android\build-cache\52ec7716413ea38ca9f5e6868b9d3bd9ee532906\output\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\DELL\.android\build-cache\426c69e42e937e6087485d49a71f5f4af2aa5e37\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\DELL\.android\build-cache\e90bcf282f790f62c6d5c1cac8f8f975c2b41fcc\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\DELL\.android\build-cache\104d3c68a896547f0640b829bfa7868b2ba32403\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\DELL\.android\build-cache\845c9e501955d95312789cc2f8725841818d2d48\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\DELL\.android\build-cache\5ba034277a6322b2f3e2d49f3d65c4b0bbaeda9b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\DELL\.android\build-cache\d03d37e4894379bc2a7004b3154bbad3d34484b9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\DELL\.android\build-cache\0f008e252cde9fbb196b0f0fbd751f2ddf70a544\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\DELL\.android\build-cache\02a0b30e072207c8333a8a329c89f14f524bbeae\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\DELL\.android\build-cache\fa30158e58112633222a0591edf3e92ae9d5dcf7\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:27:9-41
+	xmlns:tools
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:25:9-55
+	android:icon
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:28:9-38
+	android:theme
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:29:9-70
+	tools:replace
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:26:9-51
+activity#com.example.android.effectivenavigation.MainActivity
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:31:9-36:20
+	android:label
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:31:48-80
+	android:name
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:31:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.effectivenavigation.CollectionDemoActivity
+ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:38:9-100
+	android:label
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:38:58-97
+	android:name
+		ADDED from F:\run_android\mobilie_app_old\EffectiveNavigation\app\src\main\AndroidManifest.xml:38:19-57
