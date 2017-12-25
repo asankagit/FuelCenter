@@ -24,18 +24,18 @@ dependencies {
     compile 'com.android.support:recyclerview-v7:25.0.0'
     compile files('libs/activeandroid-3.1.0-20141007.143731-1.jar')
 //    //    compile 'com.android.support:recyclerview-v7:25.0.0'
-//    compile 'com.daimajia.androidanimations:library:1.1.2@aar'
-//    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.daimajia.androidanimations:library:1.1.2@aar'
+    compile 'com.android.support:appcompat-v7:25.0.0'
 //    compile 'com.daimajia.easing:library:1.0.0@aar'
 //    compile 'com.android.support.constraint:constraint-layout:1.0.2'
-//    compile 'com.android.support:appcompat-v7:25.0.0'
-//    compile 'com.android.support:recyclerview-v7:25.0.0'
-//    compile project(path: ':library')
-//    compile project(':library')
+    compile 'com.android.support:appcompat-v7:25.0.0'
+    compile 'com.android.support:recyclerview-v7:25.0.0'
+    compile project(path: ':library')
+    compile project(':library')
 //
 //    compile 'com.daimajia.easing:library:1.0.0@aar'
 //    compile 'com.daimajia.androidanimations:library:1.1.2@aar'
 //    compile 'com.nineoldandroids:library:2.4.0'
 //    // This dude gave a shoutout to you (daimajia) on his github page:
-//    compile 'jp.wasabeef:recyclerview-animators:1.0.3@aar'
+    compile 'jp.wasabeef:recyclerview-animators:1.0.3@aar'
 }

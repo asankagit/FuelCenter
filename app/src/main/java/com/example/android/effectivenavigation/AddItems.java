@@ -9,7 +9,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.support.v7.widget.RecyclerView;
 
+import com.example.android.effectivenavigation.adapter.CustomAdapter;
 import com.example.android.effectivenavigation.adapter.MyAdapter;
+import com.example.android.effectivenavigation.model.DataModel;
+
+import java.util.ArrayList;
 
 /**
  * Created by asanka on 11/23/17.
@@ -40,8 +44,14 @@ public class AddItems extends Fragment {
         String[] myDataset ={"s","sdf"};
         mAdapter = new MyAdapter(myDataset);
         //mAdapter = new CustomAdapter(myDataset);
-        mRecyclerView.setAdapter(mAdapter);
 
+
+        /////////implement card view
+        ArrayList<DataModel> cardlist = new ArrayList<>();
+        DataModel cardelement = new DataModel("cardview test", "insidecard" ,1,1);
+        cardlist.add(cardelement);
+        mAdapter =  new CustomAdapter(cardlist);
+        mRecyclerView.setAdapter(mAdapter);
 
 
 
