@@ -4,6 +4,10 @@
         "source": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
