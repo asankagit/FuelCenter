@@ -1,4 +1,7 @@
-#Wed Feb 07 22:29:01 IST 2018
-base.0=/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Feb 08 00:08:30 IST 2018
+base.0=/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36333d96ac21d1abf3d490066b0b0add79bacc39
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08d87b2adbf0727aec9ed57cf2f86eccbad82c83/classes.dex
+base.1=/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_08d87b2adbf0727aec9ed57cf2f86eccbad82c83
+file.0=/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_36333d96ac21d1abf3d490066b0b0add79bacc39/classes.dex

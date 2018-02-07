@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_icon_group.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
@@ -12,112 +12,128 @@
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/include_post_author.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/include_post_author.xml"
-    },
-    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/include_post_author.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/include_post_author.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_text_input_password_icon.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\item_comment.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/item_post.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/item_post.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post_detail.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_post_detail.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/fragment_all_posts.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/fragment_all_posts.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_sign_in.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_menu_item_action_area.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/activity_main.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/item_post.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/item_post.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/fragment_all_posts.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/fragment_all_posts.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/activity_sign_in.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_post_text.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\include_post_text.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/item_comment.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/item_comment.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_lines_media.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/item_comment.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/item_comment.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
@@ -128,36 +144,40 @@
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\include_post_text.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\include_post_text.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_separator.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_action.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
@@ -168,12 +188,40 @@
         "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\include_post_author.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/fragment_all_posts.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/fragment_all_posts.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_action_tombstone.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/item_post.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/item_post.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
@@ -184,28 +232,60 @@
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_tab_text.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_post.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\item_post.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/include_post_text.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/include_post_text.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_action.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
@@ -216,24 +296,52 @@
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_snackbar.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_content_include.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_media_custom.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
@@ -244,28 +352,60 @@
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item_subheader.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_media_custom.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
@@ -276,10 +416,6 @@
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
@@ -288,20 +424,40 @@
         "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/include_post_text.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_media_custom.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_search_view.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_bottom_navigation_item.xml",
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_bottom_navigation_item.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
@@ -312,128 +468,216 @@
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/activity_new_post.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_new_post.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_menu.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_tab_icon.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_bar_up_container.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_lines_media.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_post.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_new_post.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/activity_new_post.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/item_comment.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/item_comment.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/activity_post_detail.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/activity_post_detail.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_post.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_new_post.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_post_detail.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_post_detail.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/activity_new_post.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/activity_new_post.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_posts.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\fragment_all_posts.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_action.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_search_view.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_all_posts.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\fragment_all_posts.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\layout\\item_comment.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
@@ -444,55 +688,59 @@
         "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_post_detail.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_tab_text.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
         "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_menu_item.xml"
-    },
-    {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_screen_toolbar.xml"
     },
     {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_media.xml"
+    },
+    {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/include_post_author.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/src/main/res/layout/include_post_author.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout/notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
         "source": "/home/asanka/Documents/asanka_doc/firebase/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout\\abc_action_mode_bar.xml"
     }
 ]
