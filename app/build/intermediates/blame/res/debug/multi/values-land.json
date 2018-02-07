@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,20 +68,41 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 260,
                         "endColumn": 67,
                         "endOffset": 323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 328,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
+                },
+                "from": {
+                    "file": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/values-land/values-land.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
                     }
                 }
             }
         ]
     },
     {
-        "outputFile": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
         "map": [
             {
                 "to": {
@@ -92,7 +113,7 @@
                     "endOffset": 120
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -111,7 +132,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -130,7 +151,7 @@
                     "endOffset": 255
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -149,7 +170,7 @@
                     "endOffset": 323
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -158,85 +179,25 @@
                         "endOffset": 323
                     }
                 }
-            }
-        ]
-    },
-    {
-        "outputFile": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
-        "map": [
+            },
             {
                 "to": {
-                    "startLine": 2,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 69,
-                    "endOffset": 120
+                    "startOffset": 328,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 505
                 },
                 "from": {
-                    "file": "F:\\home\\asanka\\.android\\build-cache\\d13bdbd168eac7e89434eaff431b0af192aca3f4\\output\\res\\values-land\\values-land.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\values-land\\values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 69,
-                        "endOffset": 120
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 125,
-                    "endColumn": 63,
-                    "endOffset": 184
-                },
-                "from": {
-                    "file": "F:\\home\\asanka\\.android\\build-cache\\d13bdbd168eac7e89434eaff431b0af192aca3f4\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 125,
-                        "endColumn": 63,
-                        "endOffset": 184
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 189,
-                    "endColumn": 70,
-                    "endOffset": 255
-                },
-                "from": {
-                    "file": "F:\\home\\asanka\\.android\\build-cache\\d13bdbd168eac7e89434eaff431b0af192aca3f4\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 189,
-                        "endColumn": 70,
-                        "endOffset": 255
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 260,
-                    "endColumn": 67,
-                    "endOffset": 323
-                },
-                "from": {
-                    "file": "F:\\home\\asanka\\.android\\build-cache\\d13bdbd168eac7e89434eaff431b0af192aca3f4\\output\\res\\values-land\\values-land.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 260,
-                        "endColumn": 67,
-                        "endOffset": 323
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 232
                     }
                 }
             }

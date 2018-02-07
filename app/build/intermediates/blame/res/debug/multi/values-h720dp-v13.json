@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "F:\\home\\asanka\\.android\\build-cache\\d13bdbd168eac7e89434eaff431b0af192aca3f4\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "outputFile": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,31 +35,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 66,
-                        "endOffset": 117
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 66,
-                    "endOffset": 117
-                },
-                "from": {
-                    "file": "C:\\Users\\DELL\\.android\\build-cache\\426c69e42e937e6087485d49a71f5f4af2aa5e37\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "file": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

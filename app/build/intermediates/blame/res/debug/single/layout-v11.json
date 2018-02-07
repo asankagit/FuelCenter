@@ -1,26 +1,50 @@
 [
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_media_action.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_template_big_media_custom.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_media_action.xml"
     },
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_template_big_media_narrow.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_template_big_media.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/asanka/asanka/bazura/mobilie_app/EffectiveNavigation/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
-        "source": "/home/asanka/.android/build-cache/d13bdbd168eac7e89434eaff431b0af192aca3f4/output/res/layout-v11/notification_media_cancel_action.xml"
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     }
 ]
