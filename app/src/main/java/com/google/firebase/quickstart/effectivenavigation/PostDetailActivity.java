@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.database;
+package com.google.firebase.quickstart.effectivenavigation;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -13,15 +13,16 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.android.effectivenavigation.R;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-import com.google.firebase.quickstart.database.models.User;
-import com.google.firebase.quickstart.database.models.Comment;
-import com.google.firebase.quickstart.database.models.Post;
+import com.google.firebase.quickstart.effectivenavigation.models.User;
+import com.google.firebase.quickstart.effectivenavigation.models.Comment;
+import com.google.firebase.quickstart.effectivenavigation.models.Post;
 
 import java.util.ArrayList;
 import java.util.List;

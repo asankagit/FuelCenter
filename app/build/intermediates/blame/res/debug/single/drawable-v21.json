@@ -1,98 +1,130 @@
 [
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/avd_show_password.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_password_eye.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\notification_action_background.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_hide_password.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/avd_hide_password.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
-        "source": "/home/asanka/.android/build-cache/33222bec089b3f4436ee53d5ba3c3e9637f8888e/output/res/drawable-v21/design_password_eye.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_show_password.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/notification_action_background.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\design_password_eye.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
-        "source": "/home/asanka/Documents/asanka_doc/firebase/C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
-        "merged": "/home/asanka/Documents/asanka_doc/firebase/FuelCenter/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/asanka/.android/build-cache/edf965caaef03a456e18c5549103181b5ecf1a43/output/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     }
 ]

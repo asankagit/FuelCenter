@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.database;
+package com.google.firebase.quickstart.effectivenavigation;
 
 import android.app.ProgressDialog;
 import android.support.v7.app.AppCompatActivity;

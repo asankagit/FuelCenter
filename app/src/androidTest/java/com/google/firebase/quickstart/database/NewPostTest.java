@@ -1,4 +1,4 @@
-package com.google.firebase.quickstart.database;
+package com.example.android.effectivenavigation;
 
 
 import android.support.test.InstrumentationRegistry;

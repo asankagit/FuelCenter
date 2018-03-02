@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.firebase.quickstart.database;
+package com.google.firebase.quickstart.effectivenavigation;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -26,10 +26,11 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
+import com.example.android.effectivenavigation.R;
 import com.google.firebase.auth.FirebaseAuth;
-import com.google.firebase.quickstart.database.fragment.MyPostsFragment;
-import com.google.firebase.quickstart.database.fragment.MyTopPostsFragment;
-import com.google.firebase.quickstart.database.fragment.RecentPostsFragment;
+import com.google.firebase.quickstart.effectivenavigation.fragment.MyPostsFragment;
+import com.google.firebase.quickstart.effectivenavigation.fragment.MyTopPostsFragment;
+import com.google.firebase.quickstart.effectivenavigation.fragment.RecentPostsFragment;
 
 public class  MainActivity extends BaseActivity {
 
