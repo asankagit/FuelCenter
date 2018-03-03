@@ -1,26 +1,98 @@
 [
     {
-        "merged": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
-        "source": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_account_circle_40.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_account_circle_40.png"
     },
     {
-        "merged": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
     },
     {
-        "merged": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "F:\\home\\asanka\\asanka\\bazura\\mobilie_app\\EffectiveNavigation\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_outline_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_outline_24.png"
     },
     {
-        "merged": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
-        "source": "F:\\run_android\\mobilie_app_old\\EffectiveNavigation\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigation_check_24.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_check_24.png"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\logo.png",
-        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_account_circle_40.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_account_circle_40.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigation_check_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_check_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_24.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_image_edit.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_edit.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_outline_24.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_outline_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_image_edit.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_edit.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_image_edit.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_edit.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigation_check_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_check_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_image_edit.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\ic_image_edit.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_outline_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_outline_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_account_circle_40.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_account_circle_40.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_account_circle_40.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_account_circle_40.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_navigation_check_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-xhdpi\\ic_navigation_check_24.png"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_toggle_star_outline_24.png",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\src\\main\\res\\drawable-xhdpi\\ic_toggle_star_outline_24.png"
     }
 ]
