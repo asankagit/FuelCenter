@@ -1,34 +1,34 @@
 [
     {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

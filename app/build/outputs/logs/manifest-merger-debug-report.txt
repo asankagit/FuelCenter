@@ -23,12 +23,12 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\bui
 		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:5:22-64
 application
 ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:7:5-26:19
-MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\DELL\.android\build-cache\6db8cef0bdb2a7d42a27445e38fb1376a704015c\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:25.1.0] C:\Users\DELL\.android\build-cache\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\DELL\.android\build-cache\6e25b830cde223e1f0c796490c66c92f7fade5a8\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\DELL\.android\build-cache\38db36e4599fd46d84f93d08e258bd6aa0d2e627\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\DELL\.android\build-cache\f42ae1d63c08471ad760513bd0811a966978fb48\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.0] C:\Users\DELL\.android\build-cache\5de9543e115020dc6d68fc4f1acc5da81baf96cf\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.android\build-cache\14fe239d25387af2e848501bd54d459cfb9f384a\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.android\build-cache\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\70d48b446202d1f29b5981c87d637e9cc8ad5b1d\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\64d5edfc23ba53b6b54775f3ee9ac3f1f0b3d533\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\DELL\.android\build-cache\61fb206c7ec5a710abd5f5dea65c81332ef1b749\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:22:5-26:19
 MERGED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\DELL\.android\build-cache\f6804b7b748e761e50754564f96737e61c88d645\output\AndroidManifest.xml:24:5-30:19
 MERGED from [android.arch.core:runtime:1.0.0-beta1] C:\Users\DELL\.android\build-cache\e9d9dc1be9d757b7443127841ec19cdda767360c\output\AndroidManifest.xml:24:5-28:19
@@ -100,12 +100,12 @@ ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:25:9-115
 		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:25:19-103
 uses-sdk
 INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:cardview-v7:25.1.0] C:\Users\DELL\.android\build-cache\6db8cef0bdb2a7d42a27445e38fb1376a704015c\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:25.1.0] C:\Users\DELL\.android\build-cache\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\DELL\.android\build-cache\6e25b830cde223e1f0c796490c66c92f7fade5a8\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\DELL\.android\build-cache\38db36e4599fd46d84f93d08e258bd6aa0d2e627\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\DELL\.android\build-cache\f42ae1d63c08471ad760513bd0811a966978fb48\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:transition:25.1.0] C:\Users\DELL\.android\build-cache\5de9543e115020dc6d68fc4f1acc5da81baf96cf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.android\build-cache\14fe239d25387af2e848501bd54d459cfb9f384a\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.android\build-cache\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\70d48b446202d1f29b5981c87d637e9cc8ad5b1d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\64d5edfc23ba53b6b54775f3ee9ac3f1f0b3d533\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\DELL\.android\build-cache\61fb206c7ec5a710abd5f5dea65c81332ef1b749\output\AndroidManifest.xml:20:5-44
 MERGED from [com.firebaseui:firebase-ui-database:3.0.0] C:\Users\DELL\.android\build-cache\411dbd2f62da0b38c5a8ef810fa8b49553ef076a\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.firebaseui:firebase-ui-common:3.0.0] C:\Users\DELL\.android\build-cache\3a29ecd851dd4f404833af132eba701c824342c8\output\AndroidManifest.xml:8:5-10:41
 MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:20:5-44
@@ -140,7 +140,7 @@ MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\DELL\.android\build-cache\4f1021d400311d728e538d43ccebbfe3fef356cc\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\DELL\.android\build-cache\6b3e25143af3254db773cbcea29489fdae0ab879\output\AndroidManifest.xml:4:5-43
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.0] C:\Users\DELL\.android\build-cache\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.1.0] C:\Users\DELL\.android\build-cache\14fe239d25387af2e848501bd54d459cfb9f384a\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml
 		INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml
@@ -148,7 +148,13 @@ MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\DEL
 		INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml
 		INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:23:9-25:38
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.android\build-cache\14fe239d25387af2e848501bd54d459cfb9f384a\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.android\build-cache\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\70d48b446202d1f29b5981c87d637e9cc8ad5b1d\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DELL\.android\build-cache\64d5edfc23ba53b6b54775f3ee9ac3f1f0b3d533\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\DELL\.android\build-cache\61fb206c7ec5a710abd5f5dea65c81332ef1b749\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:23:9-25:38
 MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DELL\.android\build-cache\0650a0afe340ccea8c0cf0e100fd198362f481ad\output\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DELL\.android\build-cache\ff3de1ac7aa4d67a1b6bfc5946ac2801ea69d931\output\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DELL\.android\build-cache\8548c9a1a70e70ba8cdb4037cd04f14e9bc8d23e\output\AndroidManifest.xml:26:9-28:38
@@ -156,9 +162,9 @@ MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DELL\.android\
 MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DELL\.android\build-cache\1ab3251d7aa5cb1f3603ce42408a0a05fcbb7362\output\AndroidManifest.xml:26:9-28:38
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DELL\.android\build-cache\1faa953751b1dcc619540b3a5a0aed9badd3d7d9\output\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:25:13-35
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:25:13-35
 	android:name
-		ADDED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\DELL\.android\build-cache\080d322e02f12f51d2359bfbb5d8a1c53c948f15\output\AndroidManifest.xml:24:13-51
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:24:13-51
 provider#android.arch.lifecycle.LifecycleRuntimeTrojanProvider
 ADDED from [android.arch.lifecycle:extensions:1.0.0-beta1] C:\Users\DELL\.android\build-cache\f6804b7b748e761e50754564f96737e61c88d645\output\AndroidManifest.xml:25:9-29:43
 	android:authorities
