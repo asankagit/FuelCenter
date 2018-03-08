@@ -1,191 +1,215 @@
 [
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\14fe239d25387af2e848501bd54d459cfb9f384a\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\14fe239d25387af2e848501bd54d459cfb9f384a\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\14fe239d25387af2e848501bd54d459cfb9f384a\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\14fe239d25387af2e848501bd54d459cfb9f384a\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
@@ -196,63 +220,47 @@
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\33222bec089b3f4436ee53d5ba3c3e9637f8888e\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\cdc7ad984e7f13dc31ef3d435e80e7308e8aa7ff\\output\\res\\anim\\design_fab_out.xml"
     }
 ]

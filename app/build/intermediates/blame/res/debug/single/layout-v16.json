@@ -1,11 +1,7 @@
 [
     {
-        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
-        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
-        "source": "C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+        "source": "C:\\Users\\DELL\\.android\\build-cache\\1faa953751b1dcc619540b3a5a0aed9badd3d7d9\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
@@ -14,5 +10,9 @@
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\C:\\Users\\DELL\\.android\\build-cache\\6e25b830cde223e1f0c796490c66c92f7fade5a8\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]
