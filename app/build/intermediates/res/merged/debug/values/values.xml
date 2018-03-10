@@ -742,6 +742,7 @@
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="default_web_client_id" translatable="false">580781330135-obcn7de862v30mao2igqs2kd512s09fk.apps.googleusercontent.com</string>
     <string name="email_label">Email</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="firebase_database_url" translatable="false">https://fuelcenter-7331d.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">580781330135</string>
     <string name="google_api_key" translatable="false">AIzaSyDNVJyClmmBA9WiNQCkV5COMxxx29qxVoY</string>

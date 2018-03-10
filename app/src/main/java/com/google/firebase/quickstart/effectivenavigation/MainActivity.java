@@ -30,12 +30,15 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.app.NotificationCompat;
 import android.support.v4.view.ViewPager;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
 
 import com.example.android.effectivenavigation.R;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.messaging.FirebaseMessaging;
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyTopPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.RecentPostsFragment;
@@ -104,6 +107,16 @@ public class  MainActivity extends BaseActivity {
         }
         /*end notification*/
         sendNotification("test");
+        /*firebase cloud messaging*/
+            // [START subscribe_topics]
+            FirebaseMessaging.getInstance().subscribeToTopic("news");
+            // [END subscribe_topics]
+
+            // Log and toast
+            String msg = "subscribt to news";
+            Log.d(TAG, msg);
+            Toast.makeText(MainActivity.this, msg, Toast.LENGTH_SHORT).show();
+        /*end firebase cloud messaging */
     }
 
     private void sendNotification(String messageBody) {

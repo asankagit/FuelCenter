@@ -1456,8 +1456,27 @@
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 4632,
+                    "endColumn": 107,
+                    "endOffset": 4735
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\.android\\build-cache\\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\\output\\res\\values-th\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 241,
+                        "endColumn": 103,
+                        "endOffset": 344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4740,
                     "endColumn": 80,
-                    "endOffset": 4708
+                    "endOffset": 4816
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-th\\values-th.xml",
@@ -1472,11 +1491,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4713,
+                    "startOffset": 4821,
                     "endColumn": 100,
-                    "endOffset": 4809
+                    "endOffset": 4917
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-th\\values-th.xml",

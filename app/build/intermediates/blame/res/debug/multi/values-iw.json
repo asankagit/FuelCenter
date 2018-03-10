@@ -2202,8 +2202,27 @@
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 4562,
+                    "endColumn": 103,
+                    "endOffset": 4661
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\.android\\build-cache\\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\\output\\res\\values-iw\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 241,
+                        "endColumn": 99,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4666,
                     "endColumn": 78,
-                    "endOffset": 4636
+                    "endOffset": 4740
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-iw\\values-iw.xml",
@@ -2218,11 +2237,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4641,
+                    "startOffset": 4745,
                     "endColumn": 102,
-                    "endOffset": 4739
+                    "endOffset": 4843
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-iw\\values-iw.xml",

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:2:1-28:12
+ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
 		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:3:5-54
 		INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\bui
 	android:name
 		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:5:22-64
 application
-ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:7:5-26:19
+ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:7:5-33:19
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:22:5-26:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\DELL\.android\build-cache\14fe239d25387af2e848501bd54d459cfb9f384a\output\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DELL\.android\build-cache\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\output\AndroidManifest.xml:25:5-29:19
@@ -38,6 +38,9 @@ MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\
 MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\DELL\.android\build-cache\3b298810f8f8b6bc9a299e8f3403c9492bcd03f0\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\DELL\.android\build-cache\9081535bbc4469bcc6d10f43df9190504301ba89\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.android\build-cache\5cd09f9cc732d57c02723ad9a294573d8eb446bc\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\DELL\.android\build-cache\933046df6a879c83c1a15d89205812329ff2663f\output\AndroidManifest.xml:5:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:26:5-40:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.android\build-cache\5727f97ff57aced9bf2fffff26ba2e17bdfd1c08\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.android\build-cache\afe1b927e2e48983b8362c682c80a4390a64227e\output\AndroidManifest.xml:27:5-52:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.android\build-cache\1078fbf0d2469417b249fe224b8a5d555c7941a7\output\AndroidManifest.xml:27:5-38:19
@@ -98,6 +101,16 @@ activity#com.google.firebase.quickstart.effectivenavigation.PostDetailActivity
 ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:25:9-115
 	android:name
 		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:25:19-103
+service#com.google.firebase.quickstart.effectivenavigation.notification_service.MyFirebaseInstanceIDService
+ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:27:9-32:19
+	android:name
+		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:28:13-127
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:29:13-31:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:30:17-79
+	android:name
+		ADDED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml:30:25-77
 uses-sdk
 INJECTED from F:\run_android\FuelCenter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\DELL\.android\build-cache\8f39bf0bec6a9677361e994e91adcba10a9640cd\output\AndroidManifest.xml:20:5-44
@@ -119,6 +132,9 @@ MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\DELL\.androi
 MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\DELL\.android\build-cache\ac8b08a24690321b91c7772011dce7d75f9cb6b7\output\AndroidManifest.xml:6:5-44
 MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\DELL\.android\build-cache\9081535bbc4469bcc6d10f43df9190504301ba89\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\DELL\.android\build-cache\5cd09f9cc732d57c02723ad9a294573d8eb446bc\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\DELL\.android\build-cache\933046df6a879c83c1a15d89205812329ff2663f\output\AndroidManifest.xml:4:5-43
+MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:22:5-24:41
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.android\build-cache\5727f97ff57aced9bf2fffff26ba2e17bdfd1c08\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.android\build-cache\afe1b927e2e48983b8362c682c80a4390a64227e\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.android\build-cache\1078fbf0d2469417b249fe224b8a5d555c7941a7\output\AndroidManifest.xml:20:5-44
@@ -203,6 +219,34 @@ ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.and
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.android\build-cache\49e7e170448f2a7d5ef85751ca2a69f19bb8c542\output\AndroidManifest.xml:26:13-72
 	android:name
 		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\DELL\.android\build-cache\49e7e170448f2a7d5ef85751ca2a69f19bb8c542\output\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:32:25-75
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:37:25-84
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.android\build-cache\afe1b927e2e48983b8362c682c80a4390a64227e\output\AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.android\build-cache\1078fbf0d2469417b249fe224b8a5d555c7941a7\output\AndroidManifest.xml:24:5-79
@@ -297,14 +341,6 @@ ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\buil
 		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:52:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:51:13-77
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:53:13-55:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:53:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:54:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\DELL\.android\build-cache\402549e522c3f7bd793f99804a38116702c2cf3a\output\AndroidManifest.xml:54:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\DELL\.android\build-cache\ebeeaf413fdb9830d815487f9b1c598d0fe21e29\output\AndroidManifest.xml:8:9-12:39
 	android:authorities
