@@ -51,7 +51,6 @@ public abstract class PostListFragment extends Fragment {
 
         mRecycler = (RecyclerView) rootView.findViewById(R.id.messages_list);
         mRecycler.setHasFixedSize(true);
-
         return rootView;
     }
 

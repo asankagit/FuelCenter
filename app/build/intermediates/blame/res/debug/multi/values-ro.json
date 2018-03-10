@@ -2948,8 +2948,27 @@
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 4867,
+                    "endColumn": 105,
+                    "endOffset": 4968
+                },
+                "from": {
+                    "file": "C:\\Users\\DELL\\.android\\build-cache\\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\\output\\res\\values-ro\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 241,
+                        "endColumn": 101,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4973,
                     "endColumn": 82,
-                    "endOffset": 4945
+                    "endOffset": 5051
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-ro\\values-ro.xml",
@@ -2964,11 +2983,11 @@
             },
             {
                 "to": {
-                    "startLine": 40,
+                    "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4950,
+                    "startOffset": 5056,
                     "endColumn": 100,
-                    "endOffset": 5046
+                    "endOffset": 5152
                 },
                 "from": {
                     "file": "C:\\Users\\DELL\\.android\\build-cache\\8d0ddac891a2c948ab9053f8cd09b6737fa2efd8\\output\\res\\values-ro\\values-ro.xml",
