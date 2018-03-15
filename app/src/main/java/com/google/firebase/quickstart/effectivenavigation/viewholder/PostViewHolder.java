@@ -2,6 +2,7 @@ package com.google.firebase.quickstart.effectivenavigation.viewholder;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -15,6 +16,7 @@ public class PostViewHolder extends RecyclerView.ViewHolder {
     public ImageView starView;
     public TextView numStarsView;
     public TextView bodyView;
+    public Button accept_btn;
 
     public PostViewHolder(View itemView) {
         super(itemView);
@@ -24,6 +26,8 @@ public class PostViewHolder extends RecyclerView.ViewHolder {
         starView = (ImageView) itemView.findViewById(R.id.star);
         numStarsView = (TextView) itemView.findViewById(R.id.post_num_stars);
         bodyView = (TextView) itemView.findViewById(R.id.post_body);
+        accept_btn = (Button) itemView.findViewById(R.id.approve_btn);
+
     }
 
     public void bindToPost(Post post, View.OnClickListener starClickListener) {
