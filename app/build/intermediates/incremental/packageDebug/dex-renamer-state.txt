@@ -1,4 +1,7 @@
-#Sat Mar 10 20:30:55 IST 2018
-base.0=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Mar 16 00:59:08 IST 2018
+base.0=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f21dd52f296ee6ec6eee1403adb2172f11bdfedf
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56dedcc66edb64a66682e038f39812ccd4f36f94\\classes.dex
+base.1=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_56dedcc66edb64a66682e038f39812ccd4f36f94
+file.0=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f21dd52f296ee6ec6eee1403adb2172f11bdfedf\\classes.dex

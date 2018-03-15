@@ -106,7 +106,7 @@ public class  MainActivity extends BaseActivity {
                     channelName, NotificationManager.IMPORTANCE_LOW));
         }
         /*end notification*/
-        sendNotification("test");
+//        sendNotification("test");
         /*firebase cloud messaging*/
             // [START subscribe_topics]
             FirebaseMessaging.getInstance().subscribeToTopic("news");
