@@ -38,4 +38,14 @@ public class PostViewHolder extends RecyclerView.ViewHolder {
 
         starView.setOnClickListener(starClickListener);
     }
+
+    /*appreove btn listening method add by Asanka*/
+    public void bindToApproveBtn(Post post, View.OnClickListener approveBtnClickListener) {
+        titleView.setText(post.title);
+        authorView.setText(post.author);
+        numStarsView.setText(String.valueOf(post.starCount));
+        bodyView.setText(post.body);
+
+        accept_btn.setOnClickListener(approveBtnClickListener);
+    }
 }

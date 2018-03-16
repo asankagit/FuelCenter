@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.firebase.ui.database.FirebaseRecyclerAdapter;
 import com.firebase.ui.database.FirebaseRecyclerOptions;
@@ -24,6 +25,9 @@ import com.google.firebase.quickstart.effectivenavigation.PostDetailActivity;
 import com.example.android.effectivenavigation.R;
 import com.google.firebase.quickstart.effectivenavigation.models.Post;
 import com.google.firebase.quickstart.effectivenavigation.viewholder.PostViewHolder;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public abstract class PostListFragment extends Fragment {
 
@@ -114,6 +118,25 @@ public abstract class PostListFragment extends Fragment {
                         onStarClicked(globalPostRef);
                         onStarClicked(userPostRef);
                     }
+                });
+                //Bind to Approve Btn By Asanka
+                viewHolder.bindToApproveBtn(model,new View.OnClickListener(){
+                    @Override
+                    public void onClick(View v) {
+                        Log.d("E","Button Clicked Approve");
+                        try{
+
+                            DatabaseReference globalPostRef = mDatabase.child("posts").child(postRef.getKey());
+                            Log.d("",postRef.getKey());
+                            Map<String,Object> taskMap = new HashMap<String,Object>();
+                            taskMap.put("approved", true);
+                            globalPostRef.updateChildren(taskMap);
+                        }catch (Exception e){
+                            Log.d("Firebase Updata", ""+e);
+                        }
+                    }
+
+
                 });
             }
         };
