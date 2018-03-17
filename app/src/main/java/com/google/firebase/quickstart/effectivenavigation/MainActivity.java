@@ -39,6 +39,7 @@ import android.widget.Toast;
 import com.example.android.effectivenavigation.R;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.firebase.quickstart.effectivenavigation.fragment.InvoiceApproved;
 import com.google.firebase.quickstart.effectivenavigation.fragment.InvoicePending;
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyTopPostsFragment;
@@ -60,15 +61,18 @@ public class  MainActivity extends BaseActivity {
         mPagerAdapter = new FragmentPagerAdapter(getSupportFragmentManager()) {
             private final Fragment[] mFragments = new Fragment[] {
                     new RecentPostsFragment(),
-                    new MyPostsFragment(),
-                    new MyTopPostsFragment(),
+//                    new MyPostsFragment(),
+//                    new MyTopPostsFragment(),
+                    new InvoiceApproved(),
                     new InvoicePending(),
             };
             private final String[] mFragmentNames = new String[] {
                     getString(R.string.heading_recent),
-                    getString(R.string.heading_my_posts),
-                    getString(R.string.heading_my_top_posts),
-                    getString(R.string.approved_header)
+//                    getString(R.string.heading_my_posts),
+//                    getString(R.string.heading_my_top_posts),
+
+                    getString(R.string.approved_header),
+                    "Pending"
             };
             @Override
             public Fragment getItem(int position) {

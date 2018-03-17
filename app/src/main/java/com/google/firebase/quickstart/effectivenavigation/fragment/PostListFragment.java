@@ -40,8 +40,12 @@ public abstract class PostListFragment extends Fragment {
     private FirebaseRecyclerAdapter<Post, PostViewHolder> mAdapter;
     private RecyclerView mRecycler;
     private LinearLayoutManager mManager;
+    private static FirebaseDatabase mDB;
 
-    public PostListFragment() {}
+    public PostListFragment() {
+        mDB = FirebaseDatabase.getInstance();
+//        mDB.setPersistenceEnabled(true);
+    }
 
     @Override
     public View onCreateView (LayoutInflater inflater, ViewGroup container,
@@ -49,10 +53,12 @@ public abstract class PostListFragment extends Fragment {
         super.onCreateView(inflater, container, savedInstanceState);
         View rootView = inflater.inflate(R.layout.fragment_all_posts, container, false);
 
+
         // [START create_database_reference]
-        mDatabase = FirebaseDatabase.getInstance().getReference();
+        mDatabase = /*FirebaseDatabase.getInstance()*/mDB.getReference();
         // [END create_database_reference]
 
+//        FirebaseDatabase.getInstance().setPersistenceEnabled(true);//ADD TO CHECK WORK WHEN OFFLINE
         mRecycler = (RecyclerView) rootView.findViewById(R.id.messages_list);
         mRecycler.setHasFixedSize(true);
         return rootView;
@@ -111,12 +117,13 @@ public abstract class PostListFragment extends Fragment {
                     @Override
                     public void onClick(View starView) {
                         // Need to write to both places the post is stored
-                        DatabaseReference globalPostRef = mDatabase.child("posts").child(postRef.getKey());
+                       /* Star button blockded***
+                       DatabaseReference globalPostRef = mDatabase.child("posts").child(postRef.getKey());
                         DatabaseReference userPostRef = mDatabase.child("user-posts").child(model.uid).child(postRef.getKey());
 
                         // Run two transactions
                         onStarClicked(globalPostRef);
-                        onStarClicked(userPostRef);
+                        onStarClicked(userPostRef);*/
                     }
                 });
                 //Bind to Approve Btn By Asanka

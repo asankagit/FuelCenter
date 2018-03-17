@@ -31,14 +31,18 @@ public class SignInActivity extends BaseActivity implements View.OnClickListener
     private EditText mPasswordField;
     private Button mSignInButton;
     private Button mSignUpButton;
+    private static FirebaseDatabase firebaseDB;//test offine work by Asanka
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_in);
 
-        mDatabase = FirebaseDatabase.getInstance().getReference();
+        firebaseDB = FirebaseDatabase.getInstance();
+        firebaseDB.setPersistenceEnabled(true);
+        mDatabase = /*FirebaseDatabase.getInstance()*/firebaseDB.getReference();
         mAuth = FirebaseAuth.getInstance();
+
 
         // Views
         mEmailField = (EditText) findViewById(R.id.field_email);
