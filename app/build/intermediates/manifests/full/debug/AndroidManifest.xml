@@ -45,6 +45,8 @@
             </intent-filter>
         </service>
 
+        <activity android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome" />
+
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

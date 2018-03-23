@@ -22,14 +22,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.google.firebase.quickstart.effectivenavigation.PostDetailActivity"></activity>
+        <activity android:name="com.google.firebase.quickstart.effectivenavigation.PostDetailActivity" />
         <!-- [START firebase_iid_service] -->
-        <service
-            android:name="com.google.firebase.quickstart.effectivenavigation.notification_service.MyFirebaseInstanceIDService">
+        <service android:name="com.google.firebase.quickstart.effectivenavigation.notification_service.MyFirebaseInstanceIDService">
             <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
+
+        <activity android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome"></activity>
     </application>
 
 </manifest>

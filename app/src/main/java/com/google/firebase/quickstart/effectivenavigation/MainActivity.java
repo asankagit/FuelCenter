@@ -44,6 +44,7 @@ import com.google.firebase.quickstart.effectivenavigation.fragment.InvoicePendin
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyTopPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.RecentPostsFragment;
+import com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome;
 
 public class  MainActivity extends BaseActivity {
 
@@ -97,7 +98,8 @@ public class  MainActivity extends BaseActivity {
         findViewById(R.id.fab_new_post).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, NewPostActivity.class));
+//                startActivity(new Intent(MainActivity.this, NewPostActivity.class));
+                startActivity(new Intent(MainActivity.this, DailyIncome.class));
             }
         });
 
