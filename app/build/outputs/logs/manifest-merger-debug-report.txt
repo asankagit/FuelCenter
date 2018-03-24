@@ -42,6 +42,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DE
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:22:5-35:19
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\DELL\.android\build-cache\933046df6a879c83c1a15d89205812329ff2663f\output\AndroidManifest.xml:5:5-20
 MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:26:5-40:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\DELL\.android\build-cache\da16586e7bbf55631e167d15b5be5d1856e03c47\output\AndroidManifest.xml:11:5-12:19
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.android\build-cache\5727f97ff57aced9bf2fffff26ba2e17bdfd1c08\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.android\build-cache\afe1b927e2e48983b8362c682c80a4390a64227e\output\AndroidManifest.xml:27:5-52:19
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.android\build-cache\1078fbf0d2469417b249fe224b8a5d555c7941a7\output\AndroidManifest.xml:27:5-38:19
@@ -141,6 +142,7 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DE
 MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\DELL\.android\build-cache\cc8a4c95d15038f26af1fe7c2f3ab90ec65db084\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\DELL\.android\build-cache\933046df6a879c83c1a15d89205812329ff2663f\output\AndroidManifest.xml:4:5-43
 MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\DELL\.android\build-cache\162fc079e1d08ad43b8d7764d1fc6cd40e406b46\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\DELL\.android\build-cache\da16586e7bbf55631e167d15b5be5d1856e03c47\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\DELL\.android\build-cache\5727f97ff57aced9bf2fffff26ba2e17bdfd1c08\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\DELL\.android\build-cache\afe1b927e2e48983b8362c682c80a4390a64227e\output\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\DELL\.android\build-cache\1078fbf0d2469417b249fe224b8a5d555c7941a7\output\AndroidManifest.xml:20:5-44

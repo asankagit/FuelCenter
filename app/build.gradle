@@ -48,6 +48,8 @@ dependencies {
     compile 'com.firebase:firebase-jobdispatcher:0.6.0'
 
 //    classpath 'com.google.gms:google-services:3.1.0
+    compile 'com.jjoe64:graphview:4.2.1' //graph view
+
 
 }
 
