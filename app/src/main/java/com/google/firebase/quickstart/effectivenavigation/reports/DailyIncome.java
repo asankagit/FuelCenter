@@ -84,7 +84,8 @@ public class DailyIncome extends AppCompatActivity {
 
 
         /****/
-        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income");
+        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income").child("2018").child("january");
+//        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income");
         scoresRef.orderByChild("name").equalTo("asa").addChildEventListener(new ChildEventListener() {
             @Override
             public void onChildAdded(DataSnapshot snapshot, String previousChild) {
