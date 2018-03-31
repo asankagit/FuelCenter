@@ -30,7 +30,12 @@
             </intent-filter>
         </service>
 
-        <activity android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome"></activity>
+        <activity
+            android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            >
+
+        </activity>
     </application>
 
 </manifest>

@@ -45,7 +45,10 @@
             </intent-filter>
         </service>
 
-        <activity android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome" />
+        <activity
+            android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+        </activity>
 
         <meta-data
             android:name="android.support.VERSION"
