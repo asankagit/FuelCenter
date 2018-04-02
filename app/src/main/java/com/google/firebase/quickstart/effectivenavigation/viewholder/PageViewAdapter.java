@@ -47,7 +47,7 @@ public  class PageViewAdapter  extends FragmentPagerAdapter {
         public View onCreateView(LayoutInflater inflater, ViewGroup container,
                                  Bundle savedInstanceState) {
             // Inflate the layout for this fragment
-            return inflater.inflate(R.layout.item_comment, container, false);
+            return inflater.inflate(R.layout.fragment_daily_income, container, false);
         }
         public static ArticleFragment newInstance(int someInt) {
            ArticleFragment myFragment = new ArticleFragment();

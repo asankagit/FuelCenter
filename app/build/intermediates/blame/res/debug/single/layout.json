@@ -988,6 +988,10 @@
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_daily_income.xml",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\layout\\fragment_daily_income.xml"
+    },
+    {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "F:\\home\\asanka\\.android\\build-cache\\edf965caaef03a456e18c5549103181b5ecf1a43\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },

@@ -1,23 +1,20 @@
 package com.google.firebase.quickstart.effectivenavigation.reports;
 
-import android.os.Build;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.DatePicker;
+import android.widget.TextView;
 
 import com.example.android.effectivenavigation.R;
-import com.firebase.ui.database.FirebaseRecyclerOptions;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
-import com.google.firebase.database.Query;
-import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.quickstart.effectivenavigation.dbConn.DBConn;
 import com.google.firebase.quickstart.effectivenavigation.models.Income;
-import com.google.firebase.quickstart.effectivenavigation.models.Post;
+import com.google.firebase.quickstart.effectivenavigation.models.Months;
 import com.google.firebase.quickstart.effectivenavigation.viewholder.PageViewAdapter;
 import com.jjoe64.graphview.DefaultLabelFormatter;
 import com.jjoe64.graphview.GraphView;
@@ -33,6 +30,7 @@ public class DailyIncome extends AppCompatActivity {
 
     PageViewAdapter mAdapter;
     ViewPager mPager;
+    TextView daily_income_tv;
 
 
     @Override
@@ -41,6 +39,7 @@ public class DailyIncome extends AppCompatActivity {
         setContentView(R.layout.activity_daily_income);
         datePicker = (DatePicker)  findViewById(R.id.datePicker);
 
+
         Calendar calendar = Calendar.getInstance();
         calendar.setTimeInMillis(System.currentTimeMillis());
         datePicker.init(calendar.get(Calendar.YEAR), calendar.get(Calendar.MONTH), calendar.get(Calendar.DAY_OF_MONTH), new DatePicker.OnDateChangedListener() {
@@ -48,6 +47,10 @@ public class DailyIncome extends AppCompatActivity {
             @Override
             public void onDateChanged(DatePicker datePicker, int year, int month, int dayOfMonth) {
                 Log.d("Date", "Year=" + year + " Month=" + (month + 1) + " day=" + dayOfMonth);
+                dailyIncomeGraph(year , Months.getString(month), dayOfMonth);
+                setdailyIncomeTextView(year , Months.getString(month) ,dayOfMonth);
+                DAILY_AMOUNT = 0 ;
+
 
             }
         });
@@ -61,7 +64,7 @@ public class DailyIncome extends AppCompatActivity {
         /**page view**/
 
 //        drawGraph();
-        dailyIncome();
+//        dailyIncomeGraph();
 
     }
 
@@ -100,17 +103,59 @@ public class DailyIncome extends AppCompatActivity {
 
     static int count = 0 ;
     Income  dailyIncome;
-
+    int DAILY_AMOUNT = 0 ;
     ArrayList<DataPoint> dp = new ArrayList<>();
 
-    public void dailyIncome() {
+    private void setdailyIncomeTextView(int year, String month , final int day){
+        daily_income_tv = (TextView) findViewById(R.id.daily_income_deb_tv);
+        daily_income_tv.setText("");
+
+        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income").child(""+year).child(month).child(""+day);
+//        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income");
+//        scoresRef.orderByChild("name").equalTo("asa").addChildEventListener(new ChildEventListener() {
+        scoresRef.addChildEventListener(new ChildEventListener() {
+            @Override
+            public void onChildAdded(DataSnapshot snapshot, String previousChild) {
+//                dailyIncome = snapshot.getValue(Income.class);
+
+                if(DAILY_AMOUNT == 0){
+                    DAILY_AMOUNT = Integer.parseInt( snapshot.getValue().toString());
+                }
+
+
+                daily_income_tv.setText(""+DAILY_AMOUNT);
+//                Log.d("Tag",""+dailyIncome.amount);
+                System.out.println("GET_KEY"+snapshot.getKey());
+                System.out.println("CHILD(AMOUNT)"+snapshot.child("amount"));
+                System.out.println("SNAPSHOT.TOSTRING"+snapshot.toString());
+                System.out.println("PREVIOUSCHILD"+previousChild);
+//                System.out.println(snapshot.getValue(Long.class));
+                System.out.println("SNAPSHOT.GETVALUE"+snapshot.getValue());
+//                System.out.println(snapshot.exists());
+            }
+
+            @Override
+            public void onChildChanged(DataSnapshot dataSnapshot, String s) {}
+
+            @Override
+            public void onChildRemoved(DataSnapshot dataSnapshot) {}
+
+            @Override
+            public void onChildMoved(DataSnapshot dataSnapshot, String s) {}
+
+            @Override
+            public void onCancelled(DatabaseError databaseError) {}
+        });
+    }
+
+    public void dailyIncomeGraph(int year, String month , int day) {
 
         DatabaseReference myRef = DBConn.getDBref().child("posts").child("-L3MBaCEvzmEolnpOGkS");
 //        myRef.child("posts");
 
 
         /****/
-        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income").child("2018").child("january");
+        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income").child(""+year).child(month);
 //        DatabaseReference scoresRef = DBConn.getDatabase().getReference().child("income");
         scoresRef.orderByChild("name").equalTo("asa").addChildEventListener(new ChildEventListener() {
             @Override
