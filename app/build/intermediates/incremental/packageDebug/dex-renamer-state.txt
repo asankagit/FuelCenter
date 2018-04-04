@@ -1,4 +1,4 @@
-#Mon Apr 02 05:55:55 IST 2018
+#Mon Apr 02 16:17:13 IST 2018
 base.0=F\:\\run_android\\FuelCenter\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f21dd52f296ee6ec6eee1403adb2172f11bdfedf
 renamed.1=classes.dex
 renamed.0=classes2.dex

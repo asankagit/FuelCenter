@@ -45,6 +45,7 @@ import com.google.firebase.quickstart.effectivenavigation.fragment.MyPostsFragme
 import com.google.firebase.quickstart.effectivenavigation.fragment.MyTopPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.fragment.RecentPostsFragment;
 import com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome;
+import com.google.firebase.quickstart.effectivenavigation.reports.StockView;
 
 public class  MainActivity extends BaseActivity {
 
@@ -164,6 +165,10 @@ public class  MainActivity extends BaseActivity {
             startActivity(new Intent(this, SignInActivity.class));
             finish();
             return true;
+        }else if(i == R.id.action_stockview){
+            startActivity(new Intent(this, StockView.class));
+//            finish();
+            return  true;
         } else {
             return super.onOptionsItemSelected(item);
         }

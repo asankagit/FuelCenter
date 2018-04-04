@@ -32,10 +32,8 @@
 
         <activity
             android:name="com.google.firebase.quickstart.effectivenavigation.reports.DailyIncome"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
-            >
-
-        </activity>
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity android:name="com.google.firebase.quickstart.effectivenavigation.reports.StockView"></activity>
     </application>
 
 </manifest>
