@@ -10,14 +10,24 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center">
+        android:gravity="center"
+        android:orientation="vertical">
 
         <com.github.anastr.speedviewlib.SpeedView
             android:id="@+id/speedView"
-            android:layout_width="300dp"
-            android:layout_height="wrap_content"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
             sv_indicator="KiteIndicator"
             sv_backgroundCircleColor="#124589"/>
 
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/stock_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:clipToPadding="false"
+            android:padding="5dp"
+            android:scrollbars="vertical"
+            tools:listitem="@layout/item_stock" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

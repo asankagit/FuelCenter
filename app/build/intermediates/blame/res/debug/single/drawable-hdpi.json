@@ -12,6 +12,10 @@
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\FuelCenter\\app\\src\\main\\res\\drawable-hdpi\\firebase_lockup_400.png"
     },
     {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\fuelico.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-hdpi\\fuelico.png"
+    },
+    {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_image_edit.png",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-hdpi\\ic_image_edit.png"
     },
@@ -78,6 +82,10 @@
     {
         "merged": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_navigation_check_24.png",
         "source": "F:\\home\\asanka\\Documents\\asanka_doc\\firebase\\F:\\FireBase\\quickstart-android-master\\database\\app\\src\\main\\res\\drawable-hdpi\\ic_navigation_check_24.png"
+    },
+    {
+        "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\oillight.png",
+        "source": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\drawable-hdpi\\oillight.png"
     },
     {
         "merged": "F:\\run_android\\FuelCenter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\firebase_lockup_400.png",

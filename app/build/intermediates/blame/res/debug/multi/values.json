@@ -30026,14 +30026,7 @@
                     "endOffset": 7042
                 },
                 "from": {
-                    "file": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\values\\colors.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 157,
-                        "endColumn": 45,
-                        "endOffset": 198
-                    }
+                    "file": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\values\\colors.xml"
                 }
             },
             {
@@ -30045,7 +30038,14 @@
                     "endOffset": 7089
                 },
                 "from": {
-                    "file": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\values\\colors.xml"
+                    "file": "F:\\run_android\\FuelCenter\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 46,
+                        "endOffset": 99
+                    }
                 }
             },
             {

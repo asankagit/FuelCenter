@@ -14,12 +14,12 @@ public class Stock {
 
     public String itemName;
     public String amount;
-    public int percentage;
+    public String  percentage;
     public String imageId;
 
     public Stock(){}
 
-    public Stock(String itemName , String amount , int percentage, String imageId){
+    public Stock(String itemName , String amount , String percentage, String imageId){
         this.itemName = itemName;
         this.amount = amount;
         this.percentage  = percentage;

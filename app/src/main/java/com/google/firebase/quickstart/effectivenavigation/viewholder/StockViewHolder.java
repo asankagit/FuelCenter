@@ -14,14 +14,14 @@ import com.example.android.effectivenavigation.R;
 public class StockViewHolder extends RecyclerView.ViewHolder {
 
     public final ImageView image;
-    public final TextView time;
-    public final TextView metadata;
+    public final TextView percentage;
+    public final TextView itemName;
 
     public StockViewHolder(View itemView) {
         super(itemView);
         this.image = (ImageView) itemView.findViewById(R.id.item_stcok$item_image);
-        this.time = (TextView) itemView.findViewById(R.id.item_stock$percentage);
-        this.metadata = (TextView) itemView.findViewById(R.id.item_stock$percentage);
+        this.percentage = (TextView) itemView.findViewById(R.id.item_stock$percentage);
+        this.itemName = (TextView) itemView.findViewById(R.id.item_stock$item_name);
     }
 
 }
